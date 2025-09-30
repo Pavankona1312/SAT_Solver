@@ -63,7 +63,7 @@ The program will print the result to the console.
 
     ```
     SAT
-    1 -2 3 0
+    -3 2 1 0
     ```
 
   * If the formula is **unsatisfiable**, the output will be `UNSAT`:
