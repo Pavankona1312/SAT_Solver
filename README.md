@@ -1,6 +1,6 @@
 
 
-# C++ CDCL SAT Solver: Running Instructions
+# C++ SAT Solver: Running Instructions
 
 This guide provides the necessary steps to compile and run the SAT solver.
 
